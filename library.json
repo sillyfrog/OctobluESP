@@ -1,0 +1,19 @@
+{
+"name": "OctobluESP",
+"frameworks": "Arduino",
+"keywords": "Octoblu Meshblu ESP8266",
+"description": "Connect an ESP8266 to Octoblu",
+"url": "https://github.com/sillyfrog/OctobluESP",
+"authors":
+[
+{
+        "name": "Trent D"
+}
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/sillyfrog/OctobluESP"
+}
+}
+
